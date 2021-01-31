@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">IntentURI</string>
-    <string name="call">call</string>
-    <string name="web">web</string>
-    <string name="map">map</string>
-</resources>
